@@ -6,6 +6,6 @@ BEGIN:VEVENT
 DTEND;VALUE=DATE:20220402
 DTSTART;VALUE=DATE:20220401
 DESCRIPTION:Reservation URL: https://www.airbnb.com/hosting/reservations/
-SUMMARY:Reserved
+SUMMARY:Airbnb (Reserved)
 END:VEVENT
 END:VCALENDAR
